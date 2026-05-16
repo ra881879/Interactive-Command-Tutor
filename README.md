@@ -1,4 +1,4 @@
-\# Interactive Command Tutor# Interactive Command Tutor
+\# Interactive Command Tutor
 
 
 
